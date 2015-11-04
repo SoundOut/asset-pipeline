@@ -15,7 +15,7 @@
         "leafo/lessphp": "v0.4.0",
         "coffeescript/coffeescript": "1.3.1",
         "nitra/php-min": "@dev",
-        "leafo/scssphp": "0.0.9",
+        "leafo/scssphp": "0.3.3",
         "richthegeek/phpsass": "2014-03-20",
         "ext-fileinfo": "*"
     },
